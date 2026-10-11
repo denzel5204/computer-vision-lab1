@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.DS_Store
+.opencode/
+.codex/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.pyc
